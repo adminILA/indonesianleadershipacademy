@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150.869" height="86.563" viewBox="0 0 150.869 86.563">
+  <g id="Group_177" data-name="Group 177" transform="translate(-586.804 -158.281)">
+    <g id="Group_63" data-name="Group 63">
+      <g id="Group_61" data-name="Group 61">
+        <path id="Path_405" data-name="Path 405" d="M620.925,175.982v17.052l13.465-17.683V158.3Z" fill="#9a0e1c"/>
+        <path id="Path_406" data-name="Path 406" d="M620.925,227.792,634.39,210.11V175.352l-13.465,17.683Z" fill="#021d4d"/>
+        <path id="Path_407" data-name="Path 407" d="M620.925,244.844l13.465-17.683V210.11l-13.465,17.683Z" fill="#9a0e1c"/>
+      </g>
+      <g id="Group_62" data-name="Group 62">
+        <path id="Path_408" data-name="Path 408" d="M586.8,244.844h34.121V227.792H591.8Z" fill="#cd1225"/>
+        <path id="Path_409" data-name="Path 409" d="M591.8,227.792h29.129V193.035H601.971Z" fill="#032767"/>
+        <path id="Path_410" data-name="Path 410" d="M601.971,193.035h18.954V175.982H606.963Z" fill="#cd1225"/>
+      </g>
+    </g>
+    <g id="Group_67" data-name="Group 67">
+      <g id="Group_66" data-name="Group 66">
+        <g id="Group_65" data-name="Group 65">
+          <g id="Group_64" data-name="Group 64">
+            <rect id="Rectangle_22" data-name="Rectangle 22" width="103.286" height="17.051" transform="translate(634.386 158.281)" fill="#cd1225"/>
+            <rect id="Rectangle_23" data-name="Rectangle 23" width="103.286" height="17.051" transform="translate(634.386 210.088)" fill="#cd1225"/>
+            <rect id="Rectangle_24" data-name="Rectangle 24" width="103.286" height="34.755" transform="translate(634.386 175.332)" fill="#032767"/>
+          </g>
+          <circle id="Ellipse_6" data-name="Ellipse 6" cx="14.068" cy="14.068" r="14.068" transform="translate(671.961 178.642)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

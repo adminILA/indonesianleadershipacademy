@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="58" viewBox="0 0 58 58">
+  <defs>
+    <filter id="facebook-square" x="0" y="0" width="58" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="btn-facebook" transform="translate(-1486 -24)">
+    <rect id="Rectangle_99" data-name="Rectangle 99" width="40" height="40" rx="5" transform="translate(1495 30)" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 1486, 24)" filter="url(#facebook-square)">
+      <path id="facebook-square-2" data-name="facebook-square" d="M40,36.286V67.714A4.287,4.287,0,0,1,35.714,72H28.1V56.179h5.411l.777-6.036H28.1V46.286c0-1.75.482-2.937,2.991-2.937h3.2V37.955a42.974,42.974,0,0,0-4.661-.241c-4.607,0-7.768,2.813-7.768,7.982v4.455H16.429v6.036h5.438V72H4.286A4.287,4.287,0,0,1,0,67.714V36.286A4.287,4.287,0,0,1,4.286,32H35.714A4.287,4.287,0,0,1,40,36.286Z" transform="translate(9 -26)" fill="#4267b2"/>
+    </g>
+  </g>
+</svg>
